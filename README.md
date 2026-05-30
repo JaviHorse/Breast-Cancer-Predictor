@@ -8,13 +8,6 @@ This project covers the full machine learning workflow: data preprocessing, mode
 
 ---
 
-## Live Demo
-
-Hugging Face Spaces:  
-`https://huggingface.co/spaces/JaviHorse/breast-cancer-detection-app`
-
----
-
 ## Project Overview
 
 This project uses machine learning to classify breast tumor profiles based on numerical diagnostic features extracted from digitized images of fine needle aspirates of breast masses.
